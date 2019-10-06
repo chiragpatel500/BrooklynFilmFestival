@@ -1,0 +1,231 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+    background-color:#9b59b6;
+    border: 0;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+    background-color:#8e44ad;
+}
+.navbar-inverse .navbar-brand {
+    color:white;
+}
+
+
+.panel-default>.panel-heading a {
+    color: #8e44ad;
+    
+}
+#about{
+    font-size: 20px;
+}
+.Schedule{
+    
+    margin-top: 50px;
+    text-align: justify;
+    font-family:'Montserrat',sans-serif;
+
+}
+.date-box {
+    color: #ffffff;
+    background-color: #9b58b6;
+    padding: 10px;
+}
+.date-box span{
+    display: block;
+}
+.date-box .month {
+    text-transform: uppercase;
+}
+.date-box .day {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.panel-heading{
+    text-align: center;
+}
+
+h4 {
+    font-size: 30px;
+    color: black;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.background-schedule{
+    background-color:white;
+}
+.panel-heading{
+    background-color: aquamarine;
+}
+.welcome {
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f9f9f9;
+    padding: 30px;
+    border: 1px solid #eee;
+}
+.welcome h2 {
+    font-weight: 700;
+}
+.welcome p {
+    line-height: 27px;
+}
+.twitter-megaphone{
+    text-align: center;
+    padding-top: 15%;
+    width:100%;
+}
+.twitter-megaphone img {
+    display: inline-block;
+}
+.mb-0 {
+    margin-bottom: 0;
+}
+
+.mt-0 {
+    margin-top: 0;
+}
+
+
+.about{
+    background-color:#ffffff;
+    font-family:'Montserrat',sans-serif;
+    text-align: justify;
+}
+.about img {
+    margin-top: 72px;
+}
+.adress-contact-container{
+    background-color: antiquewhite;
+    font-family:'Montserrat',sans-serif;
+    margin-bottom: 0%;
+
+    
+}
+.text-center {
+    text-align: center;
+}
+
+.navbar {
+    border-radius: 0;
+}
+footer {
+    text-align: center;
+    background-color:#2c3e50;
+    color:#8695a5;
+    margin-top: 50px;
+    padding: 30px 0;
+    text-decoration-color: #40739e;
+    
+    
+}
+footer form {
+    background-color: #fff;
+    border-radius: 35px;
+    max-width: 500px;
+    height: 50px;
+    margin: auto;
+    padding: 8px 15px;
+    position: relative;
+    overflow: hidden;
+}
+footer form input {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100% !important;
+    height: 50px !important;
+    border: 0 !important;
+    padding-left: 25px !important;
+}
+footer form .btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0 !important;
+    line-height: 50px !important;
+    padding: 0 25px !important;
+    border-radius: 0 !important;
+}
+.footer-icons {
+    margin: 40px 0;
+}
+.footer-icons ul {
+    margin: 0;
+    padding: 0;
+    list-style-type:circle;
+    
+}
+.footer-icons li {
+    display: inline-block;
+}
+.footer-icons a {
+    color: rgba(255, 255, 255,0.5);
+    margin:5px 10px;
+    width:40px;
+    height:40px;
+    line-height: 40px;
+    font-size:18px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 25px;
+    transition:all ease 0.3s;
+    display: block;
+    
+}
+.footer-icons a:hover {
+    color: rgba(255, 255, 255,1);
+    border: 2px solid rgba(255, 255, 255, 1);
+    
+}
+
+
+.address{
+    background-color:#9b59b6;
+    font-size: 20px;
+    text-decoration-style: solid;
+    padding-top: 15%;
+    padding-bottom: 40%;
+    text-align:center;
+
+}
+
+#Information{
+    background-color:gray;
+}
+
+.reservation-form {
+    background: url('../images/Brooklyn-Bridge-About-page.jpg') center center no-repeat;
+    background-size: cover;
+    padding: 40px 0px;
+
+}
+.reservation-form h1 {
+    color: #fff;
+    margin: 0 0 30px 0;
+}
+.reservation-form form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: rgba(0,0,0,0.5);
+    padding: 40px;
+}
+.reservation-form form label {
+    color: #fff;
+}
+
+.twitter {
+    margin-top: 50px;
+}
+.about p{
+    text-align: justify;
+    font-size: 16px;
+    
+}
