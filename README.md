@@ -1,5 +1,5 @@
 # BrooklynFilmFestival
-Project 3 by Frontend Path by Openclassrooms.com - Film Festival Website "Analyze a client's needs for their film festival"
+Film Festival Website "Analyze a client's needs for their film festival"
 
 Requirements:
 
